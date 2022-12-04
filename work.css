@@ -1,0 +1,35 @@
+*{
+    margin: 10;
+    padding: 5px;
+    font-family: cursive;
+    color: rgba(98, 52, 12, 0.844);
+    text-decoration:dashed;
+    list-style-type: none;
+
+    
+}
+body header nav ul table tr th li{
+    background-color: grey;
+    opacity: 0.8;
+    border-radius: 500px;
+    text-align: center;
+    font-size: 25px;
+}
+body h1{
+    font-size: 35px;
+    color: rgb(172, 11, 11);
+}
+body p{
+    font-family:monospace;
+    color: goldenrod;
+    font-size: 20px;
+
+}
+body iframe {
+    border-radius: 25%;
+    background-color: rgb(104, 83, 83);
+
+}
+body{
+    background-image: url(/image/Nun\ Movie\ Horror\ IPhone\ Wallpaper\ -\ IPhone\ Wallpapers_2.jpeg);
+}

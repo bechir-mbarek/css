@@ -1,0 +1,29 @@
+*{
+    margin: 10;
+    padding: 5px;
+    font-family: cursive;
+    color: rgba(98, 52, 12, 0.844);
+    text-decoration:dashed;
+    
+}
+body{
+    background-image: url(/image/123123.gif);
+}
+body header tr th li{
+    background-color: rgb(84, 80, 80);
+    list-style-type: none;
+    border-radius: 25%;
+    font-size: 25px;
+}
+main table tr th h1{
+    font-size: 30px;
+    color: red;
+}
+main table tr th p{
+    font-size: 20px;
+    color: rgb(14, 0, 102);
+}
+main table tr th h4{
+    font-size: 15px;
+    color: goldenrod;
+}

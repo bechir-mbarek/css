@@ -1,0 +1,48 @@
+*{
+    margin: 10;
+    padding: 5px;
+    font-family: cursive;
+    color: rgba(98, 52, 12, 0.844);
+    text-decoration:dashed;
+    font-size: 104%;
+    list-style-type: none;
+    text-indent: 10px;
+    margin-bottom: auto;
+    
+}
+header nav ul tr th li {
+    
+    text-decoration:rgb(0, 0, 0);
+    
+    background-color:grey;
+    opacity: 0.4;
+    border-radius: 500px;
+    text-align: center;
+
+
+}
+body{
+    background-image: url(/image/15.gif);
+    
+}
+main img{
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;    
+}
+label{
+    font-size: 100%;
+    text-decoration:firebrick;
+}
+form input{
+    background-color: #778899;
+    }
+table tr td img{
+    margin-left: 60%;
+    border-radius: 25%;
+}
+
+
+
+

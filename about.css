@@ -1,0 +1,61 @@
+
+*{
+    margin: 10;
+    padding: 5px;
+    font-family: cursive;
+    color: rgba(98, 52, 12, 0.844);
+    text-decoration:dashed;
+    
+}
+header main h1{
+    color:orangered;
+    font-size: 55px;
+}
+
+header nav ul tr th li {
+    
+    text-decoration:rgb(0, 0, 0);
+    
+    background-color:grey;
+opacity: 0.4;
+    border-radius: 500px;
+    text-align: center;
+
+}
+ul{
+    list-style-type : none;
+    
+}
+li{
+    background-color: solid rgb(98, 10, 10);
+    width: auto;
+    margin-left: 50px;
+    font-size: 25px;
+    border-radius: 30px;
+    color: black;
+}
+
+
+img{
+    border: 4px solid rgb(120, 13, 13);
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
+    height: 250;
+    border-radius: 25px;
+}
+body{
+    background-image: url(/image/pist.gif);
+    
+
+    
+    
+}
+main{
+    background-attachment: fixed;
+    border-radius: 80px;
+}
+main label{
+    color: rgba(192, 134, 34, 0.93);
+    font-size: 25px;
+}
